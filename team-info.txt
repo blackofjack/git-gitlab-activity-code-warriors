@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Members: Alice, Bob, Charlie
-=======
-Members: John, Jane, Jake
->>>>>>> feature-update-info
+Members: Alice, Bob, Charlie, John, Jane, Jake
